@@ -27,7 +27,8 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     def room_version = "2.2.0-alpha01" // 2.1.0 for latest stable version
-    implementation "androidx.room:room-runtime:$room_version"
+    implementation 'android.arch.persistence.room:runtime:1.0.0'
+    annotationProcessor 'android.arch.persistence.room:compiler:1.0.0'
 
 
 
