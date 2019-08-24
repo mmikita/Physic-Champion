@@ -1,4 +1,4 @@
-package com.example.physicchampion.com.example.physicchampion.view;
+package com.example.physicchampion.view;
 
 import android.app.Activity;
 import android.graphics.Typeface;

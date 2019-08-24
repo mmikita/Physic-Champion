@@ -1,4 +1,4 @@
-package com.example.physicchampion.com.example.physicchampion.view;
+package com.example.physicchampion.view;
 
 import android.support.v4.app.Fragment;
 

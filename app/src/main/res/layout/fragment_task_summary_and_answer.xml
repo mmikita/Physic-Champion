@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".com.example.physicchampion.view.TaskSummaryAndAnswerFragment">
+    tools:context=".view.TaskSummaryAndAnswerFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TableLayout
@@ -66,7 +66,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        tools:context=".com.example.physicchampion.view.TaskCartActivity"
+        tools:context=".view.TaskCartActivity"
         android:layout_weight="1"
         android:orientation="horizontal"
         >

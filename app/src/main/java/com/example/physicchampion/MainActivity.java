@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.example.physicchampion.com.example.physicchampion.view.TaskCartActivity;
+import com.example.physicchampion.view.TaskCartActivity;
 
 
 public class MainActivity extends Activity {
