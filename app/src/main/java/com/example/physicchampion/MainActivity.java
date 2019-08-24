@@ -3,10 +3,8 @@ package com.example.physicchampion;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import com.example.physicchampion.dao.AppDatabase;
-import com.example.physicchampion.model.Comment;
-import com.example.physicchampion.model.Task;
-import com.example.physicchampion.model.User;
+
+import com.example.physicchampion.com.example.physicchampion.view.TaskCartActivity;
 
 
 public class MainActivity extends Activity {

@@ -1,4 +1,4 @@
-package com.example.physicchampion;
+package com.example.physicchampion.com.example.physicchampion.view;
 
 import android.app.Activity;
 import android.graphics.Typeface;
@@ -6,6 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ImageButton;
 import android.widget.TextView;
+
+import com.example.physicchampion.R;
 
 public class TaskCartActivity extends Activity {
 
