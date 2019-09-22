@@ -19,14 +19,14 @@ public class TaskCartActivity extends Activity {
         Typeface custom_font = Typeface.createFromAsset(getAssets(),  "fonts/sciencefair.otf");
         tx.setTypeface(custom_font);
 
-        ImageButton ib1 = (ImageButton)findViewById(R.id.Ikonka1);
-        ib1.setImageResource(R.drawable.whiteflag);
-
-        ImageButton ib2 = (ImageButton)findViewById(R.id.Ikonka2);
-        ib2.setImageResource(R.drawable.texticon);
-
-        ImageButton ib3 = (ImageButton)findViewById(R.id.Ikonka3);
-        ib3.setImageResource(R.drawable.playicon);
+//        ImageButton ib1 = (ImageButton)findViewById(R.id.Ikonka1);
+//        ib1.setImageResource(R.drawable.whiteflag);
+//
+//        ImageButton ib2 = (ImageButton)findViewById(R.id.Ikonka2);
+//        ib2.setImageResource(R.drawable.texticon);
+//
+//        ImageButton ib3 = (ImageButton)findViewById(R.id.Ikonka3);
+//        ib3.setImageResource(R.drawable.playicon);
 
 
 
